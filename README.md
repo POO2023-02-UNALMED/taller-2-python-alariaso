@@ -6,3 +6,11 @@ Para hacer uso de la herramienta para autocalificar tu implementacion debes pega
 ![Logo UNAL](https://github.com/POO-UNALMED/useful/blob/master/img/escudoUnal_black.png)
 
 #### FACULTAD DE MINAS SEDE MEDELLIN
+
+# Nota:
+
+Se me olvidó configurar la cuenta de git antes de hacer commits, entonces quedó en la lista de
+contribuidores una cuenta aparte de esta (alariaso). Ya eliminé los commits hechos con esa cuenta e
+hice uno solo con alariaso, pero sigue apareciendo la otra cuenta en la lista de contribuidores.
+Esta nota la hago para avisarles que la otra cuenta también es mia, en caso de que siga
+apareciendo, porque creo que eventualmente deberia quitarse.
